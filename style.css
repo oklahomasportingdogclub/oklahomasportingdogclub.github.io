@@ -1,7 +1,3 @@
-h2 {
-    color: white; /* Change to your desired color */
-}
-
 :root {
     --primary-color: #2c5282;
     --secondary-color: #4299e1;
@@ -90,6 +86,7 @@ body {
 .hero h2 {
     font-size: 3rem;
     margin-bottom: 1rem;
+    color: var(--white);
 }
 
 .hero p {
