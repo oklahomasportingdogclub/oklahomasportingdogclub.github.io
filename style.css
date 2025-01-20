@@ -1,3 +1,7 @@
+h2 {
+    color: white; /* Change to your desired color */
+}
+
 :root {
     --primary-color: #2c5282;
     --secondary-color: #4299e1;
