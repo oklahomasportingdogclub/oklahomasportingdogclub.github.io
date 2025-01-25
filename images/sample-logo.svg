@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+    <!-- Circle background -->
+    <circle cx="100" cy="100" r="95" fill="#2c5282"/>
+    
+    <!-- Dog silhouette -->
+    <path d="M160 100 
+             C160 70, 140 50, 100 50
+             C60 50, 40 70, 40 100
+             C40 130, 60 150, 100 150
+             C140 150, 160 130, 160 100
+             Z" 
+          fill="#ffffff"/>
+    
+    <!-- Nose and eyes -->
+    <circle cx="85" cy="90" r="5" fill="#2c5282"/>
+    <circle cx="115" cy="90" r="5" fill="#2c5282"/>
+    <ellipse cx="100" cy="105" rx="10" ry="5" fill="#2c5282"/>
+    
+    <!-- Text -->
+    <text x="100" y="180" 
+          text-anchor="middle" 
+          font-family="Arial" 
+          font-size="14" 
+          fill="#ffffff">
+        OSDC
+    </text>
+</svg>
